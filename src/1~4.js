@@ -166,4 +166,4 @@ render(
   // <Welcome name='kotoba'/>,
   // element,
   document.querySelector('#root')
-)
+)~
